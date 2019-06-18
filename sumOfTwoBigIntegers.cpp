@@ -18,6 +18,7 @@ int main() {
 		}
 	}
 	else {
+        
 		int fark = num2.length() - num1.length();
 		for (int i = 0; i < fark; i++) {
 			num1 += '0';
